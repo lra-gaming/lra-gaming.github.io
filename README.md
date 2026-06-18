@@ -7,4 +7,6 @@ Vamos tentar explorar gêneros que você não tem o costume de jogar para tentar
 
 ## Silent Hill f
 
+Uma névoa envolve a cidade natal de Hinako, levando-a a lutar contra monstros grotescos e solucionar quebra-cabeças sinistros. Descubra a beleza perturbadora escondida no terror. 
+
 [![Trailer](https://img.youtube.com/vi/0NMoPvqaz10/0.jpg)](https://www.youtube.com/watch?v=0NMoPvqaz10)
