@@ -1,1 +1,2 @@
-# lra-gaming.github.io
+# Sugestões de jogos para L.A
+
