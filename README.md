@@ -7,4 +7,4 @@ Vamos tentar explorar gêneros que você não tem o costume de jogar para tentar
 
 ## Silent Hill f
 
-[![Trailer](https://youtube.com)](https://youtube.com)
+[![Trailer](https://img.youtube.com/vi/0NMoPvqaz10/0.jpg)](https://www.youtube.com/watch?v=0NMoPvqaz10)
