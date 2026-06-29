@@ -1,10 +1,11 @@
+<a id="top"></a>
 Essas sugestões possuem caráter meramente informativo e não vinculante (não vale falar mal do meu gosto depois)
 Vamos tentar explorar gêneros que você não tem o costume de jogar para tentar expandir os horizontes.
 
-[🗡️ Action](#action) · [🧭 Action/Adventure](#action-adventure) · [🔥 Action/Passar Raiva](#action-passar-raiva) · [✈️ Action/Simulation](#action-simulation) · [🎒 Adventure](#adventure) · [🧩 Adventure/Puzzle](#adventure-puzzle) · [👊 Beat 'Em Ups](#beat-em-ups) · [⚔️ Character Action](#character-action) · [🥋 Fighting](#fighting) · [🔫 FPS](#fps) · [🛡️ RPG](#rpg) · [🥷 Stealth](#stealth) · [👻 Terror](#terror)
+[Action](#action) · [Action/Adventure](#action-adventure) · [Action/Passar Raiva](#action-passar-raiva) · [Action/Simulation](#action-simulation) · [Adventure](#adventure) · [Adventure/Puzzle](#adventure-puzzle) · [Beat 'Em Ups](#beat-em-ups) · [Character Action](#character-action) · [Fighting](#fighting) · [FPS](#fps) · [RPG](#rpg) · [Stealth](#stealth) · [Terror](#terror)
 
 <a id="action"></a>
-# 🗡️ Action
+# Action
 
 <div class="game-card" markdown="1">
 
@@ -19,7 +20,7 @@ Incorpore a habilidade sobre-humana e a brutalidade de um Space Marine. Use habi
 </div>
 
 <a id="action-adventure"></a>
-# 🧭 Action/Adventure
+# Action/Adventure
 
 <div class="game-card" markdown="1">
 
@@ -69,8 +70,10 @@ Embarque em uma comovente jornada por um cativante mundo brutal distorcido por f
 
 </div>
 
+[Voltar ao topo](#top)
+
 <a id="action-passar-raiva"></a>
-# 🔥 Action/Passar Raiva
+# Action/Passar Raiva
 
 <div class="game-card" markdown="1">
 
@@ -120,8 +123,22 @@ Erga-se, Maculado(a), e seja guiado pela graça para empunhar o poder do Elden R
 
 </div>
 
+<div class="game-card" markdown="1">
+
+## Hades II
+
+A primeira sequência de Supergiant Games aprimora os aspectos mais divinos do roguelike de masmorras do jogo original, em uma experiência repleta de ação e infinitamente rejogável, enraizada no Submundo da mitologia grega e suas conexões com o início da bruxaria.
+
+<div class="tags"><span class="tag">Roguelike</span> <span class="tag">Mitologia Grega</span> <span class="tag">Hack and Slash</span> <span class="tag">Narrativa</span></div>
+
+[![Trailer](https://img.youtube.com/vi/txQKYcbIAHU/0.jpg)](https://www.youtube.com/watch?v=txQKYcbIAHU)
+
+</div>
+
+[Voltar ao topo](#top)
+
 <a id="action-simulation"></a>
-# ✈️ Action/Simulation
+# Action/Simulation
 
 <div class="game-card" markdown="1">
 
@@ -135,8 +152,10 @@ Torne-se um piloto ás e voe por céus fotorrealistas com movimento de 360 graus
 
 </div>
 
+[Voltar ao topo](#top)
+
 <a id="adventure"></a>
-# 🎒 Adventure
+# Adventure
 
 <div class="game-card" markdown="1">
 
@@ -174,8 +193,10 @@ Marissa Marcel era uma estrela de cinema. Ela fez três filmes. Mas nenhum deles
 
 </div>
 
+[Voltar ao topo](#top)
+
 <a id="adventure-puzzle"></a>
-# 🧩 Adventure/Puzzle
+# Adventure/Puzzle
 
 <div class="game-card" markdown="1">
 
@@ -225,8 +246,10 @@ Return of the Obra Dinn é uma aventura de mistério em primeira pessoa baseada 
 
 </div>
 
+[Voltar ao topo](#top)
+
 <a id="beat-em-ups"></a>
-# 👊 Beat 'Em Ups
+# Beat 'Em Ups
 
 <div class="game-card" markdown="1">
 
@@ -252,8 +275,10 @@ O retorno da lendária série Streets of Rage. Gráficos lindos e totalmente des
 
 </div>
 
+[Voltar ao topo](#top)
+
 <a id="character-action"></a>
-# ⚔️ Character Action
+# Character Action
 
 <div class="game-card" markdown="1">
 
@@ -267,8 +292,22 @@ O caçador de demônios definitivo está de volta com estilo, no jogo que os fã
 
 </div>
 
+<div class="game-card" markdown="1">
+
+## Bayonetta
+
+A hipnotizante Bruxa Umbra ressurge das profundezas após meio milênio de descanso, sem se lembrar de seu passado misterioso, e é lançada imediatamente à batalha onde deve eliminar seus inúmeros inimigos para descobrir a verdade.
+
+<div class="tags"><span class="tag">Hack and Slash</span> <span class="tag">Estiloso</span> <span class="tag">Bruxaria</span> <span class="tag">Single-player</span></div>
+
+[![Trailer](https://img.youtube.com/vi/h7PZ1i992kc/0.jpg)](https://www.youtube.com/watch?v=h7PZ1i992kc)
+
+</div>
+
+[Voltar ao topo](#top)
+
 <a id="fighting"></a>
-# 🥋 Fighting
+# Fighting
 
 <div class="game-card" markdown="1">
 
@@ -282,8 +321,10 @@ TEKKEN 8 é o mais novo capítulo da série TEKKEN, o ápice dos jogos de luta e
 
 </div>
 
+[Voltar ao topo](#top)
+
 <a id="fps"></a>
-# 🔫 FPS
+# FPS
 
 <div class="game-card" markdown="1">
 
@@ -321,8 +362,10 @@ Metro Exodus é um épico FPS narrativo da 4A Games que combina combate mortal e
 
 </div>
 
+[Voltar ao topo](#top)
+
 <a id="rpg"></a>
-# 🛡️ RPG
+# RPG
 
 <div class="game-card" markdown="1">
 
@@ -372,8 +415,10 @@ Ambientado no mundo fictício de Eora, apresentado pela primeira vez na franquia
 
 </div>
 
+[Voltar ao topo](#top)
+
 <a id="stealth"></a>
-# 🥷 Stealth
+# Stealth
 
 <div class="game-card" markdown="1">
 
@@ -411,8 +456,10 @@ Assuma novamente o papel de um assassino sobrenatural em Dishonored 2, a sequên
 
 </div>
 
+[Voltar ao topo](#top)
+
 <a id="terror"></a>
-# 👻 Terror
+# Terror
 
 <div class="game-card" markdown="1">
 
@@ -437,3 +484,5 @@ Um remake completo do segundo título da série FATAL FRAME (PROJECT ZERO). As i
 [![Trailer](https://img.youtube.com/vi/FzKpOJBwzzI/0.jpg)](https://www.youtube.com/watch?v=FzKpOJBwzzI)
 
 </div>
+
+[Voltar ao topo](#top)
