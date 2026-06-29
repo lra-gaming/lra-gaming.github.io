@@ -16,6 +16,7 @@ Vamos tentar explorar gêneros que você não tem o costume de jogar para tentar
 - [Character Action](#character-action)
 - [Fighting](#fighting)
 - [FPS](#fps)
+- [Open World](#open-world)
 - [RPG](#rpg)
 - [Stealth](#stealth)
 - [Terror](#terror)
@@ -48,6 +49,30 @@ Abra caminho à força por uma aventura interdimensional com Ratchet e Clank. Aj
 <div class="tags"><span class="tag">Plataforma</span> <span class="tag">Sci-Fi</span> <span class="tag">Single-player</span> <span class="tag">Família</span></div>
 
 [![Trailer](https://img.youtube.com/vi/Y5TRFGEA0N8/0.jpg)](https://www.youtube.com/watch?v=Y5TRFGEA0N8)
+
+</div>
+
+<div class="game-card" markdown="1">
+
+## Star Wars Jedi: Survivor
+
+A história de Cal Kestis continua neste jogo de ação e aventura em terceira pessoa ambientado no universo Star Wars. Cinco anos após os eventos de Jedi: Fallen Order, Cal enfrenta uma luta cada vez mais desesperada à medida que a galáxia se torna mais sombria, cercado por ameaças novas e familiares como um dos últimos Cavaleiros Jedi sobreviventes.
+
+<div class="tags"><span class="tag">Star Wars</span> <span class="tag">Terceira Pessoa</span> <span class="tag">Narrativa</span> <span class="tag">Single-player</span></div>
+
+[![Trailer](https://img.youtube.com/vi/ew6PO-uHDS8/0.jpg)](https://www.youtube.com/watch?v=ew6PO-uHDS8)
+
+</div>
+
+<div class="game-card" markdown="1">
+
+## Star Wars Outlaws
+
+O primeiro jogo de mundo aberto de Star Wars já feito. Explore locais marcantes e inéditos pela galáxia e arrisque tudo na pele da vigarista Kay Vess, em busca de liberdade e dos meios para começar uma nova vida.
+
+<div class="tags"><span class="tag">Star Wars</span> <span class="tag">Mundo Aberto</span> <span class="tag">Aventura</span> <span class="tag">Single-player</span></div>
+
+[![Trailer](https://img.youtube.com/vi/HlfuN4yj3yg/0.jpg)](https://www.youtube.com/watch?v=HlfuN4yj3yg)
 
 </div>
 
@@ -376,6 +401,23 @@ Metro Exodus é um épico FPS narrativo da 4A Games que combina combate mortal e
 <div class="tags"><span class="tag">Mundo Aberto</span> <span class="tag">Survival Horror</span> <span class="tag">Pós-apocalíptico</span> <span class="tag">Narrativa</span></div>
 
 [![Trailer](https://img.youtube.com/vi/18cdIVCt74I/0.jpg)](https://www.youtube.com/watch?v=18cdIVCt74I)
+
+</div>
+
+[Voltar ao topo](#top)
+
+<a id="open-world"></a>
+# Open World
+
+<div class="game-card" markdown="1">
+
+## Mafia: The Old Country
+
+Descubra as origens do crime organizado nesta conturbada história de máfia ambientada no submundo brutal da Sicília do início do século XX. Lute para sobreviver como Enzo Favara e prove seu valor para a Cosa Nostra nesta envolvente ação em terceira pessoa.
+
+<div class="tags"><span class="tag">Máfia</span> <span class="tag">Terceira Pessoa</span> <span class="tag">Narrativa</span> <span class="tag">Single-player</span></div>
+
+[![Trailer](https://img.youtube.com/vi/3sv5p0IyJuM/0.jpg)](https://www.youtube.com/watch?v=3sv5p0IyJuM)
 
 </div>
 
