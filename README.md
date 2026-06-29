@@ -2,7 +2,21 @@
 Essas sugestões possuem caráter meramente informativo e não vinculante (não vale falar mal do meu gosto depois)
 Vamos tentar explorar gêneros que você não tem o costume de jogar para tentar expandir os horizontes.
 
-[Action](#action) · [Action/Adventure](#action-adventure) · [Action/Passar Raiva](#action-passar-raiva) · [Action/Simulation](#action-simulation) · [Adventure](#adventure) · [Adventure/Puzzle](#adventure-puzzle) · [Beat 'Em Ups](#beat-em-ups) · [Character Action](#character-action) · [Fighting](#fighting) · [FPS](#fps) · [RPG](#rpg) · [Stealth](#stealth) · [Terror](#terror)
+<nav class="genre-nav" markdown="1">
+- [Action](#action)
+- [Action/Adventure](#action-adventure)
+- [Action/Passar Raiva](#action-passar-raiva)
+- [Action/Simulation](#action-simulation)
+- [Adventure](#adventure)
+- [Adventure/Puzzle](#adventure-puzzle)
+- [Beat 'Em Ups](#beat-em-ups)
+- [Character Action](#character-action)
+- [Fighting](#fighting)
+- [FPS](#fps)
+- [RPG](#rpg)
+- [Stealth](#stealth)
+- [Terror](#terror)
+</nav>
 
 <a id="action"></a>
 # Action
